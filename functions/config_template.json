@@ -1,0 +1,19 @@
+{
+  "spotify-credentials": {
+    "clientId": "get-from-spotify-api-dashboard",
+    "clientSecret": "get-from-spotify-api-dashboard",
+    "redirectUri": "https://create-a-callback-endpoint.com/callback"
+  },
+  "spotify-authorization": {
+    "expiresIn": 3600,
+    "accessToken": "get-from-callback-endpoint",
+    "refreshToken": "get-from-callback-endpoint",
+    "userId": "your-username",
+    "dynamicPlaylistName" : "KZSU Zootopia Dynamic Playlist"
+  },
+  "firebase-credentials": {
+    "credentials-location": "./get-credentials-from-firebase.json",
+    "crypto-secret": "kzsurocks",
+    "databaseUrl": "https://<your-project-name>.firebaseio.com"
+  }
+}
