@@ -1,7 +1,7 @@
 # zootopia-playlist-generator
 **Creates Spotify playlists from recent songs played on KZSU Zootopia.**
 
-[KZSU Zootopia](http://kzsu.rocks/) is a streaming service of excellent college rock from Stanford. I love it, and their tastes are very aligned with mine.
+[KZSU Zootopia](http://kzsu.rocks/) is a streaming service of excellent college rock from Stanford, and their tastes are very aligned with mine.
 However, the stream is inconvenient so I wrote these cloud functions to scrape the Zootopia website and create a daily Spotify playlist.
 
 * Every hour, a cloud function running on Google's Firebase service queries the Zootopia website for the last 25 played songs.
