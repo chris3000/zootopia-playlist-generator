@@ -15,7 +15,7 @@
     "firebase-admin": "^8.6.0",
     "firebase-functions": "^3.3.0",
     "spotify-web-api-node": "~4.0.0",
-    "got": "^10.4.0",
+    "got": "^11.8.5",
     "luxon": "^1.22.0"
   },
   "devDependencies": {
