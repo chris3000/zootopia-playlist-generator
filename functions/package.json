@@ -16,7 +16,7 @@
     "firebase-functions": "^3.3.0",
     "spotify-web-api-node": "~4.0.0",
     "got": "^10.4.0",
-    "luxon": "^1.22.0"
+    "luxon": "^1.28.1"
   },
   "devDependencies": {
     "firebase-functions-test": "^0.1.6"
